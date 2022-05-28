@@ -1,0 +1,63 @@
+.first {
+    background-image: linear-gradient(to right, white 10%, transparent 50%),url("https://images4.alphacoders.com/573/57394.jpg");
+    height: 600px;
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+}
+.second {
+    background-image: linear-gradient(to right, white 10%, transparent 50%),url("./329583.jpg");
+    height: 600px;
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+}
+.third {
+    background-image: linear-gradient(to right, white 10%, transparent 50%),url("./6366.jpg");
+    height: 600px;
+    background-size: 100% 600px;
+    background-repeat: no-repeat;
+}
+.moviename {
+    font-weight: 700;
+}
+.pos {
+    width: 100%;
+    height: 280px;
+}
+
+.booknow {
+    border-radius: 50px;
+    width:200px;
+    background-color: rgb(38, 16, 74);
+    border: 1px solid  rgb(38, 16, 74);
+}
+.mname {
+    background-color: rgb(38, 16, 74); 
+    border: 1px solid  rgb(38, 16, 74); 
+    width: 11rem;
+}
+.booknow:hover {
+    background-color: rgb(41, 14, 83);
+    border: 1px solid  rgb(38, 16, 74);
+}
+.aligntext {
+    text-align: center;
+}
+.foot {
+    background-color: rgb(6, 3, 10);
+    color:antiquewhite;
+}
+  
+
+ .dropdown-toggle::after {
+    display: inline-block;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: ""; 
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+  }  
+
+
+  
