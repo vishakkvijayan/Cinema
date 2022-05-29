@@ -46,6 +46,34 @@
     background-color: rgb(6, 3, 10);
     color:antiquewhite;
 }
+
+.ex1 {
+    background-image: linear-gradient(to right, white 10%, transparent 70%),url("./ex1.jpg");
+    height: 500px;
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    border: solid 2px rgb(38, 16, 74);
+    border-radius: 10px;
+}
+.ex2 {
+    background-image: linear-gradient(to right, white 10%, transparent 70%),url("./ex2.jpg");
+    height: 500px;
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    border: solid 2px rgb(38, 16, 74);
+    border-radius: 10px;
+}
+.ex3 {
+    background-image: linear-gradient(to right, white 10%, transparent 70%),url("./ex3.jpg");
+    height: 500px;
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    border: solid 2px rgb(38, 16, 74);
+    border-radius: 10px;
+}
+
+
+
   
 
  .dropdown-toggle::after {
